@@ -110,7 +110,6 @@ public:
     }
 
     RollerCoaster(const std::string& name, int speed, int loopCount, int dropHeight) : Ride(name, speed) {
-        // Недефолтный конструктор RollerCoaster, использующий недефолтный конструктор Ride
         this->loopCount = loopCount;
         this->dropHeight = dropHeight;
     }
