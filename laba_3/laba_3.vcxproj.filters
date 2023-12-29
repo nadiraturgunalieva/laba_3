@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="laba_3.cpp">
+    <ClCompile Include="inheritance.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
